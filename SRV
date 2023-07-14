@@ -1,7 +1,3 @@
-vless://23708eaa-900e-446a-af81-a0d54af0f5e4@dns.8840.ir:80?path=%2F8840pro&security=none&encryption=none&type=ws#CDN%F0%9F%87%AE%F0%9F%87%B7
-vless://23708eaa-900e-446a-af81-a0d54af0f5e4@dns.8840.ir:8880?path=%2F8840pro&security=none&encryption=none&type=ws#CDN+2%F0%9F%87%AE%F0%9F%87%B7
-vless://23708eaa-900e-446a-af81-a0d54af0f5e4@meghdadit.com:80?path=%2F8840pro&security=none&encryption=none&host=dns.8840.ir&type=ws#CDN+3%F0%9F%87%AE%F0%9F%87%B7
-vless://23708eaa-900e-446a-af81-a0d54af0f5e4@meghdadit.com:8880?path=%2F8840pro&security=none&encryption=none&host=dns.8840.ir&type=ws#CDN+4%F0%9F%87%AE%F0%9F%87%B7
 vless://23708eaa-900e-446a-af81-a0d54af0f5e4@tgju.org:8880?path=%2F8840pro&security=none&encryption=none&host=8840.nod-32.ir&type=ws#Global+%F0%9F%8C%90
 vless://23708eaa-900e-446a-af81-a0d54af0f5e4@avval.ir:8880?path=%2F8840pro&security=none&encryption=none&host=8840.nod-32.ir&type=ws#Global+2+%F0%9F%8C%90
 vless://23708eaa-900e-446a-af81-a0d54af0f5e4@azaronline.com:8880?path=%2F8840pro&security=none&encryption=none&host=8840.nod-32.ir&type=ws#Global+3+%F0%9F%8C%90
@@ -30,3 +26,6 @@ vless://b5af93f9-e68c-4c8f-b37d-0637fb146ddf@direct.overload.site:443?mode=gun&s
 vless://b5af93f9-e68c-4c8f-b37d-0637fb146ddf@91.107.147.11:443?security=reality&encryption=none&alpn=h2&pbk=p5B49kpdN-PNrxKMo5xoKQvL34W87IgaWQH4-oicjmQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=discord.com&sid=145c24#discord_Reality
 trojan://KnT2FQWkOK@band1.unboundnet.ir:2087?mode=gun&security=tls&alpn=h2&fp=chrome&type=grpc&serviceName=www.iranserver.com&sni=ant1.unboundnet.ir#%23de
 vless://e851330e-1a2f-4872-c1cf-93699a7045eb@3.28.182.195:27526?security=reality&encryption=none&pbk=IiuIighvDsor2v-vb5s3IJbNiqwLw568auiqoXxc7FM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#%23Emirates
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.68.206.229:8080#%F0%9F%87%AC%F0%9F%87%A7London
+vless://515ccfea-41f8-446d-8355-343a03e780c6@135.125.55.253:443?mode=gun&security=reality&encryption=none&alpn=h2&pbk=j5Fxydovyp4fsk8FVaLozshp_j0RoypBRQVSB3hmIlo&fp=chrome&type=grpc&serviceName=0Z7BGYU69jI4ZJLtU3QVi9h&sni=www.speedtest.net&sid=b8#%23NL+%28TCI%29
+vless://c4d2f404-8e3c-43be-ad83-328921cd421d@135.125.55.253:443?security=reality&encryption=none&alpn=h2&pbk=j5Fxydovyp4fsk8FVaLozshp_j0RoypBRQVSB3hmIlo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.check-host.net&sid=b8#%23NL+%28MCI%29
