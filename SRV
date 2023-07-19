@@ -21,7 +21,7 @@ vless://b99f24b4-74bb-4d63-a052-801f6f48dddc@45.159.219.50:2096?path=%2Fasmhd&se
 vless://734eefc1-0b6c-46d2-e09e-60f7fa6ee983@45.159.219.50:2096?path=%2Fhsusu&security=tls&encryption=none&host=sub0.itsjustforscience.fun&type=ws&sni=sub0.itsjustforscience.fun#BlueVPS_ws%28MCI%29
 vless://734eefc1-0b6c-46d2-e09e-60f7fa6ee983@23.227.39.144:2096?path=%2Fhsusu&security=tls&encryption=none&host=sub0.itsjustforscience.fun&type=ws&sni=sub0.itsjustforscience.fun#BlueVPS_ws%28Shatel%29
 vless://b99f24b4-74bb-4d63-a052-801f6f48dddc@23.227.39.144:2096?path=%2Fasmhd&security=tls&encryption=none&host=sub1.itsjustforscience.fun&type=ws&sni=sub1.itsjustforscience.fun#CINFU_ws%28Shatel%29
-trojan://KnT2FQWkOK@band1.unboundnet.ir:2087?mode=gun&security=tls&alpn=h2&fp=chrome&type=grpc&serviceName=www.iranserver.com&sni=ant1.unboundnet.ir#%23de
+trojan://dd3NuBkPbv@Band2.unboundnet.ir:2087?mode=gun&security=tls&alpn=h2&fp=chrome&type=grpc&serviceName=grpc19101&sni=falk.unboundnet.ir#%23de
 vless://e851330e-1a2f-4872-c1cf-93699a7045eb@3.28.182.195:27526?security=reality&encryption=none&pbk=IiuIighvDsor2v-vb5s3IJbNiqwLw568auiqoXxc7FM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#%23Emirates
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.68.206.229:8080#%F0%9F%87%AC%F0%9F%87%A7London
 trojan://93ed0514-854b-4e6c-9967-f8dc4b40db8a@hoddi.cpionline.co:443?path=%2F86mNTlgBQQGC7YNALYx5xYr&security=tls&host=hoddi.cpionline.coh2&type=ws&sni=hoddi.cpionline.co#%F0%9F%87%A9%F0%9F%87%AADE+1
@@ -50,3 +50,6 @@ vless://95f1f90e-8d42-4fe7-e26a-64c8b292a13f@104.31.16.9:80?path=%2Fwhoiam&secur
 vless://98011a1b-f2f2-48db-c92c-f99729b7ce16@104.31.16.65:80?path=%2Fcart&security=none&encryption=none&host=DATA.ShoKR.De&type=ws#%F0%9F%87%AB%F0%9F%87%AEK20+%28all%29
 vless://c5988f93-96d5-4134-cb59-32e40b0dbbf2@mci.divar.pro:80?path=%2Fhome&security=none&encryption=none&host=eNteRTaInMENt.OpPENuP.cOm&type=ws#%F0%9F%87%B5%F0%9F%87%B1K21+%28all%29
 vless://c5988f93-96d5-4134-cb59-32e40b0dbbf2@104.31.16.65:80?path=%2Fhome&security=none&encryption=none&host=cOMMuNiCAtion.digIKALa.netwoRK&type=ws#%F0%9F%87%B5%F0%9F%87%B1K22+%28all%29
+vless://028bb8a1-ce64-4512-f341-5afaf86ccd77@159.69.179.35:8443?mode=gun&security=reality&encryption=none&pbk=hT-WVCAf77HgVbeFrcN9sVyWlwqTcwaW3S9X-f9m7jY&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=www.zula.ir&sid=df503b5e#gr-win
+vless://96e6adf7-ad3d-4763-b793-7a6d82f460e1@128.140.57.121:8443?mode=gun&security=reality&encryption=none&pbk=j4btxXKnxuAmy5Om3BvoLfQQSdSXbxM8qujaSyDSsC0&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=ftp.debian.org&sid=6f4d#all-0m6aem
+
