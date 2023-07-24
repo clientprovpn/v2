@@ -1,12 +1,12 @@
 vless://23708eaa-900e-446a-af81-a0d54af0f5e4@mci.8840.ir:8880?path=%2F8840pro&security=none&encryption=none&host=8840.nod-32.ir&type=ws#HAMRAH+AVAL+%F0%9F%8C%90
 vless://23708eaa-900e-446a-af81-a0d54af0f5e4@mtn.8840.ir:8880?path=%2F8840pro&security=none&encryption=none&host=8840.nod-32.ir&type=ws#IRANCELL+%F0%9F%8C%90
-vless://7cb8ae29-f7c1-4272-b238-b48d8513c544@mcm.test88993388.xyz:2083?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AAK1
+vless://8f071f3c-82b0-4725-9534-92216e3e59fe@mcm.test88993388.xyz:2083?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AAK1
 vless://70f22e8d-3f51-4297-a27c-caf15c7ecb93@mosh150.test88993388.xyz:443?security=none&encryption=none&host=ubuntu.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AAK2
 vless://d9da6f03-6339-4330-95d9-bc4cffabdf80@104.31.16.9:80?path=%2Fdl&security=none&encryption=none&host=reALESTAtE.bLaCKMaSTer.org&type=ws#%F0%9F%87%A9%F0%9F%87%AAK3
 vless://de4e7b41-bb15-459e-f2f6-9594dee32120@185.146.173.20:80?path=%2F&security=none&encryption=none&host=lOgISTIcS.mIcRosoftS.dOwnLOAD&type=ws#%F0%9F%87%A9%F0%9F%87%AAK4
 vless://535c22af-c632-434e-9cff-33df14ed8f2a@104.31.16.8:80?path=%2F&security=none&encryption=none&host=tIpS.prE-lOad.sItE&type=ws#%F0%9F%87%AC%F0%9F%87%A7K5
 vless://f86103ba-e161-4e39-adb7-8006acc5ec0f@mci.divar.pro:80?path=%2Fbackup&security=none&encryption=none&host=ZOoloGY.KasHTi.woRld&type=ws#%F0%9F%87%AC%F0%9F%87%A7K6
-vless://d1af0877-af19-44b5-d818-273f72eb22d1@104.31.16.65:80?path=%2F&security=none&encryption=none&host=ecoLoGY.shOKr.DE&type=ws#%F0%9F%87%AC%F0%9F%87%A7K7
+vless://b3df9376-3f90-45c9-cf39-74b8a7217a7a@145.239.202.19:51355?security=none&encryption=none&host=ubuntu.com&headerType=http&type=tcp#%F0%9F%87%AC%F0%9F%87%A7K7
 vless://535c22af-c632-434e-9cff-33df14ed8f2a@185.146.173.20:80?path=%2F&security=none&encryption=none&host=aStRoNOMy.pRE-LoAD.siTe&type=ws#%F0%9F%87%AC%F0%9F%87%A7K8
 vless://da6e41c4-442d-460e-a0d7-db7cb0920b6b@104.31.16.9:80?path=%2F&security=none&encryption=none&host=TRaINING.kAShtI.WORLd&type=ws#%F0%9F%87%AB%F0%9F%87%B7K9
 vless://3427f446-7dd0-40c9-9d64-ed02418f925f@104.31.16.65:8080?path=%2Fbackup&security=none&encryption=none&host=TeChNoLOGY.kASHTi.wOrld&type=ws#%F0%9F%87%AB%F0%9F%87%B7K10
@@ -21,4 +21,7 @@ vless://eb43e65a-0b5a-4f6e-9af0-06256db43708@104.31.16.9:80?path=%2Fdl%2Findex.p
 vless://ffb7be4a-5f7d-4aa6-c712-d2d31b36cbdf@185.146.173.20:80?path=%2Fgoogle.com_403.online&security=none&encryption=none&host=ForesTRy.ShOkR.dE&type=ws#%F0%9F%87%A8%F0%9F%87%A6K19
 vless://ffb7be4a-5f7d-4aa6-c712-d2d31b36cbdf@185.162.228.3:80?path=%2Fgoogle.com_403.online&security=none&encryption=none&host=ForesTRy.ShOkR.dE&type=ws#%F0%9F%87%A8%F0%9F%87%A6K20
 vless://ffb7be4a-5f7d-4aa6-c712-d2d31b36cbdf@104.31.16.37:80?path=%2Fgoogle.com_403.online&security=none&encryption=none&host=ForesTRy.ShOkR.dE&type=ws#%F0%9F%87%A8%F0%9F%87%A6K21
-vless://96e6adf7-ad3d-4763-b793-7a6d82f460e1@128.140.57.121:8443?mode=gun&security=reality&encryption=none&pbk=j4btxXKnxuAmy5Om3BvoLfQQSdSXbxM8qujaSyDSsC0&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=ftp.debian.org&sid=6f4d#all-0m6aem
+vless://c5bb5ec4-56e4-470b-9a2c-b6e026ce967f@95.164.9.102:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#%F0%9F%87%A6%F0%9F%87%B9%23fast+1
+vless://c5bb5ec4-56e4-470b-9a2c-b6e026ce967f@95.164.9.102:2053?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=discordapp.com#%F0%9F%87%A6%F0%9F%87%B9%23fast+2
+vless://96e6adf7-ad3d-4763-b793-7a6d82f460e1@128.140.57.121:8443?mode=gun&security=reality&encryption=none&pbk=j4btxXKnxuAmy5Om3BvoLfQQSdSXbxM8qujaSyDSsC0&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=ftp.debian.org&sid=6f4d#%F0%9F%87%A9%F0%9F%87%AA%23fast+3
+trojan://ce7cb7b0-df13-4da4-a733-349165197045@37.152.176.102:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=yr7bB5TRDJ4TalM2pqhW3m&sni=direct.overload.site#%F0%9F%87%A9%F0%9F%87%AA%23fast+4
