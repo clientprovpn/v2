@@ -1,7 +1,7 @@
 vless://23708eaa-900e-446a-af81-a0d54af0f5e4@mci.8840.ir:8880?path=%2F8840pro&security=none&encryption=none&host=8840.nod-32.ir&type=ws#HAMRAH+AVAL+%F0%9F%8C%90
 vless://23708eaa-900e-446a-af81-a0d54af0f5e4@mtn.8840.ir:8880?path=%2F8840pro&security=none&encryption=none&host=8840.nod-32.ir&type=ws#IRANCELL+%F0%9F%8C%90
-vless://8f071f3c-82b0-4725-9534-92216e3e59fe@mcm.test88993388.xyz:2083?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AAK1
-vless://70f22e8d-3f51-4297-a27c-caf15c7ecb93@mosh150.test88993388.xyz:443?security=none&encryption=none&host=ubuntu.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AAK2
+vless://b7f3d427-f839-4666-9634-c71771058058@mcm.test88993388.xyz:2083?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AAK1
+vless://7d239504-1d93-491d-c303-f2512084939d@mosh114.test88993388.xyz:443?security=none&encryption=none&host=ubuntu.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AAK2
 vless://d9da6f03-6339-4330-95d9-bc4cffabdf80@104.31.16.9:80?path=%2Fdl&security=none&encryption=none&host=reALESTAtE.bLaCKMaSTer.org&type=ws#%F0%9F%87%A9%F0%9F%87%AAK3
 vless://de4e7b41-bb15-459e-f2f6-9594dee32120@185.146.173.20:80?path=%2F&security=none&encryption=none&host=lOgISTIcS.mIcRosoftS.dOwnLOAD&type=ws#%F0%9F%87%A9%F0%9F%87%AAK4
 vless://535c22af-c632-434e-9cff-33df14ed8f2a@104.31.16.8:80?path=%2F&security=none&encryption=none&host=tIpS.prE-lOad.sItE&type=ws#%F0%9F%87%AC%F0%9F%87%A7K5
@@ -22,5 +22,5 @@ vless://eb43e65a-0b5a-4f6e-9af0-06256db43708@104.31.16.197:80?path=%2Fdl%2Findex
 vless://6d0b1a36-9630-449d-866f-9effcc7423f2@185.146.173.20:80?path=%2F&security=none&encryption=none&host=cOMmUnIcaTIon.oPPenUP.Com&type=ws#%F0%9F%87%A8%F0%9F%87%A6K20
 vless://6d0b1a36-9630-449d-866f-9effcc7423f2@136.244.87.193:80?path=%2F&security=none&encryption=none&host=cart.maroonagate.com&type=ws#%F0%9F%87%A8%F0%9F%87%A6K21
 vless://96e6adf7-ad3d-4763-b793-7a6d82f460e1@128.140.57.121:8443?mode=gun&security=reality&encryption=none&pbk=j4btxXKnxuAmy5Om3BvoLfQQSdSXbxM8qujaSyDSsC0&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=ftp.debian.org&sid=6f4d#%F0%9F%87%A9%F0%9F%87%AA%23fast+1
-trojan://ce7cb7b0-df13-4da4-a733-349165197045@37.152.176.102:443?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=yr7bB5TRDJ4TalM2pqhW3m&sni=direct.overload.site#%F0%9F%87%A9%F0%9F%87%AA%23fast+2
-vless://4081cdad-b895-4b5c-9cf4-e7a0f66d13c2@62.60.172.217:57981?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%23fast+3
+trojan://ce7cb7b0-df13-4da4-a733-349165197045@91.107.155.101:443?mode=gun&security=tls&alpn=h2&fp=chrome&type=grpc&serviceName=yr7bB5TRDJ4TalM2pqhW3m&sni=direct.overload.site#%F0%9F%87%A9%F0%9F%87%AA%23fast+2
+vless://14c42ccb-b9de-4a75-b793-313b574e238e@193.233.133.119:2053?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&type=grpc&serviceName=xyz&sni=www.speedtest.net#%F0%9F%87%AB%F0%9F%87%AE%23fast+3
