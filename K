@@ -1,7 +1,7 @@
 vless://23708eaa-900e-446a-af81-a0d54af0f5e4@104.24.184.134:8880?path=%2F8840pro&security=none&encryption=none&host=8840.nod-32.ir&type=ws#HAMRAH+AVAL+%F0%9F%8C%90
 vless://23708eaa-900e-446a-af81-a0d54af0f5e4@104.24.20.31:8880?path=%2F8840pro&security=none&encryption=none&host=8840.nod-32.ir&type=ws#IRANCELL+%F0%9F%8C%90
-vless://21d92961-c37a-4671-8523-1acb8e0e0f89@mcm.test88993388.xyz:2083?security=none&encryption=none&host=ubuntu.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AAK1
-vless://6e7edc35-1798-4b2c-897f-e739d312486b@mosh150.test88993388.xyz:443?security=none&encryption=none&host=ubuntu.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AAK2
+vless://21d92961-c37a-4671-8523-1acb8e0e0f89@37.152.191.98:2083/?encryption=none&host=ubuntu.com&type=tcp&headerType=http#%F0%9F%87%A9%F0%9F%87%AAK1
+vless://21d92961-c37a-4671-8523-1acb8e0e0f89@37.152.191.98:2083/?encryption=none&host=ubuntu.com&type=tcp&headerType=http#%F0%9F%87%A9%F0%9F%87%AAK1
 vless://d1accc34-2d63-440a-9c20-1d39e65d9fd2@104.31.16.9:80?path=%2Fbackup&security=none&encryption=none&host=AB.microSofts.dOwNload&type=ws#%F0%9F%87%A9%F0%9F%87%AAK3
 vless://523999a1-3fb0-4cc7-f2a9-68ef2c63ecb9@5.161.186.40:25876?security=none&encryption=none&host=ubuntu.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AAK4
 vless://725c2780-5ef0-4f64-bcac-75f87435a723@46.30.43.63:443?security=reality&encryption=none&pbk=g_hu3RnF_Is2E5OkKJ-MupAWBgCBTP19h8z2gdRnEkI&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=google-analytics.com&sid=d2daa818#%F0%9F%87%B3%F0%9F%87%B1K5
