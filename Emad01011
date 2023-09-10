@@ -9,8 +9,8 @@ vless://35e2dd8a-ad9d-449e-974e-968c4d76a26d@85.198.11.225:443?security=none&enc
 vless://102a0bbe-c05b-431b-8baf-7db1e2f8025f@104.23.139.0:80?path=%2Fbackup&security=none&encryption=none&host=folder.eita.world&type=ws#%F0%9F%87%A9%F0%9F%87%AAK3
 vless://96e6adf7-ad3d-4763-b793-7a6d82f460e1@128.140.57.121:8443?mode=gun&security=reality&encryption=none&pbk=j4btxXKnxuAmy5Om3BvoLfQQSdSXbxM8qujaSyDSsC0&fp=chrome&type=grpc&serviceName=&sni=ftp.debian.org&sid=6f4d#%F0%9F%87%A9%F0%9F%87%AAK4
 vless://02faed4d-2978-429c-88a2-cc6890294805@104.21.77.241:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=hello-world-hidden-haze-7d65.reneja.workers.dev&fp=chrome&type=ws&sni=hello-world-hidden-haze-7d65.reneja.workers.dev#%F0%9F%87%A9%F0%9F%87%AAK5
-vless://b15859c8-9007-4951-b9a5-91da87d68397@104.31.16.65:80?path=%2Fbackup&security=none&encryption=none&host=journALISm.MahdavIaT.uk&type=ws#%F0%9F%87%A9%F0%9F%87%AAK6
+vless://8dd72fda-fba8-4448-b00e-a6af63396f5f@104.31.16.9:80?path=%2Fbackup&security=none&encryption=none&host=Water.SPamDetectoR.wOrLd&type=ws#%F0%9F%87%A9%F0%9F%87%AAK6
 vless://102a0bbe-c05b-431b-8baf-7db1e2f8025f@104.23.139.0:80?path=%2Fbackup&security=none&encryption=none&host=folder.eita.world&type=ws#%F0%9F%87%A9%F0%9F%87%AAK7
-vless://a735cbbc-4f26-498c-a066-a4d89ad4485e@172.67.229.179:80?path=%2Fbackup&security=none&encryption=none&host=PedagOgY.MAhDAVIat.uK&type=ws#%F0%9F%87%A9%F0%9F%87%AAK8
+vless://8821a42f-045f-4613-b31f-b3615a0980e7@78.47.19.155:4092?security=reality&encryption=none&pbk=Um7nrFG_4vuXp0JnQp7P1OD8fafnxm-cws9JgEKk8Rg&host=speed.cloudflare.com&headerType=http&fp=firefox&type=tcp&sni=speed.cloudflare.com&sid=20a2c01a#%F0%9F%87%A9%F0%9F%87%AAK8
 trojan://dd3NuBkPbv@91.107.185.1:2087?mode=gun&security=tls&alpn=h2&fp=chrome&type=grpc&serviceName=grpc19101&sni=falk.unboundnet.ir#MCI-1
-vless://b8e59d14-eb78-44ee-a181-bbe3517f8b4e@104.31.16.247:443?path=%2F&security=tls&encryption=none&alpn=h2&host=vl.crazi.eu.org&fp=chrome&type=ws&sni=vl.crazi.eu.org#MCI-2
+vless://b8e59d14-eb78-44ee-a181-bbe3517f8b4e@104.31.16.247:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2&host=vl.crazi.eu.org&fp=chrome&type=ws&sni=vl.crazi.eu.org#MCI-2
