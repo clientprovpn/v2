@@ -2,9 +2,11 @@ vless://23708eaa-900e-446a-af81-a0d54af0f5e4@172.67.167.160:8880?path=%2F8840pro
 vless://23708eaa-900e-446a-af81-a0d54af0f5e4@avval.ir:8880?path=%2F8840pro&security=none&encryption=none&host=8840.nod-32.ir&type=ws#Global+2+%F0%9F%8C%90
 vless://23708eaa-900e-446a-af81-a0d54af0f5e4@zula.ir:8880?path=%2F8840pro&security=none&encryption=none&host=8840.nod-32.ir&type=ws#Global+3+%F0%9F%8C%90
 vless://23708eaa-900e-446a-af81-a0d54af0f5e4@104.21.50.220:8880?path=%2F8840pro&security=none&encryption=none&host=8840.nod-32.ir&type=ws#Global+4+%F0%9F%8C%90
-vless://79cfcb2e-40d2-46bf-b9f9-1ead4089af3d@85.198.8.216:2083?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AAK1
-vless://80f76e7c-7fe7-4760-aaa9-7eadc7c6fd8d@85.198.11.225:443?security=none&encryption=none&host=ubuntu.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AAK2
+vless://9fca3b8b-f5e9-4940-8b54-3584802fd25c@37.152.188.188:2083?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AAK1
+vless://df8ed955-0bb1-44e7-8a60-9c5bdb30b113@85.198.11.225:443?security=none&encryption=none&host=ubuntu.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AAK2
 vless://34a74419-4174-4ca7-898d-5560a3fd4e92@116.203.213.66:51518?mode=gun&security=reality&encryption=none&pbk=TjUDnr1MqDVC_XOBkB4cqtPsaKp-w3NVookK4LACY2s&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=ea.com&sid=6eb7ef21#%F0%9F%87%A9%F0%9F%87%AAK3
+vless://12bfb496-ca88-4569-b94f-c347f70d60ac@91.107.181.102:80?path=%2Fbackup&security=none&encryption=none&host=coOL.SpamdETEcTOr.WOrLd&type=ws#%F0%9F%87%A9%F0%9F%87%AAK4
 vless://a8ecc7fa-96e4-4428-a4a6-c6929b3999f9@98.142.253.249:443?security=reality&encryption=none&pbk=lSQ_EcHVtgMeIcmejshQSY1J046S6mKhM-9lPsIMUyA&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.speedtest.net&sid=0a519543#Dusseldorf-Reality
 trojan://dd3NuBkPbv@91.107.185.1:2087?mode=gun&security=tls&alpn=h2&fp=chrome&type=grpc&serviceName=grpc19101&sni=falk.unboundnet.ir#MCI-1
 vless://b8e59d14-eb78-44ee-a181-bbe3517f8b4e@104.31.16.247:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2&host=vl.crazi.eu.org&fp=chrome&type=ws&sni=vl.crazi.eu.org#MCI-2
+
