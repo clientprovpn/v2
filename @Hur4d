@@ -1,8 +1,9 @@
 vless://23708eaa-900e-446a-af81-a0d54af0f5e4@zula.ir:8880?path=%2F8840pro&security=none&encryption=none&host=8840.nod-32.ir&type=ws#Global+%F0%9F%8C%90
-vless://434e0058-73ff-4f61-aa1c-b6a705967896@37.152.188.188:2083?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AAK1
-vless://130f3ecb-0471-4589-842d-06dc4c4e3044@185.146.173.20:80?path=%2Fbackup&security=none&encryption=none&host=FAmily.spaMDEtectOr.woRld&type=ws#%F0%9F%87%A9%F0%9F%87%AAK2
+vless://bd08599d-e254-4b3c-99be-0d952c79b7fe@85.198.11.225:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AAK1
+vless://059cc376-faca-414a-ba98-a689af5ad0ab@104.21.25.0:80?path=%2Fbackup&security=none&encryption=none&host=tOP.amoOZesHgAH-pc.Com&type=ws#%F0%9F%87%A9%F0%9F%87%AAK2
 vmess://eyJhZGQiOiIxODUuMTQzLjIzMy4xMjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNhbWkudG94aW4uc2l0ZSIsImlkIjoiOGUyY2M3ZjAtM2JjMS00ZDkzLTkwMWItZTUwOTIzYmFmZDVmIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDUyIiwicHMiOiLwn4ep8J+HqkszIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vless://ac13c93b-5081-4b50-aafa-c39d2b33eeea@49.13.55.101:2084?security=none&encryption=none&host=chase.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AAK4
-vless://a8ecc7fa-96e4-4428-a4a6-c6929b3999f9@98.142.253.249:443?security=reality&encryption=none&pbk=lSQ_EcHVtgMeIcmejshQSY1J046S6mKhM-9lPsIMUyA&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.speedtest.net&sid=0a519543#Dusseldorf-Reality
+vless://a8ecc7fa-96e4-4428-a4a6-c6929b3999f9@98.142.253.249:443?security=reality&encryption=none&pbk=lSQ_EcHVtgMeIcmejshQSY1J046S6mKhM-9lPsIMUyA&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net&sid=0a519543#Dusseldorf-Reality
 vless://2e4e5aa5-a010-4e52-9cc0-2b1f5d040df6@5.161.135.57:2087?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=grpc&serviceName=grpc31702&sni=us2.unboundnet.ir#MCI-1
-vless://b8e59d14-eb78-44ee-a181-bbe3517f8b4e@104.31.16.247:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2&host=vl.crazi.eu.org&fp=chrome&type=ws&sni=vl.crazi.eu.org#MCI-2
+trojan://dd3NuBkPbv@185.206.94.243:2087?mode=gun&security=tls&alpn=h2&fp=chrome&type=grpc&serviceName=grpc19101&sni=falk.unboundnet.ir#MCI-2
+vless://b8e59d14-eb78-44ee-a181-bbe3517f8b4e@104.31.16.247:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2&host=vl.crazi.eu.org&fp=chrome&type=ws&sni=vl.crazi.eu.org#MCI-3
