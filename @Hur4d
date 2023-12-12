@@ -1,8 +1,7 @@
-vless://9aeb481a-365b-4c46-fc42-2fda5c976555@85.198.11.225:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AAK1
-vless://7fa331af-750c-463a-bf28-913c8982f7e8@172.67.26.210:80?path=%2Fbackup&security=none&encryption=none&host=LlN8Lm.DIvaR.Pro&type=ws#%F0%9F%87%A9%F0%9F%87%AAK2
+vless://25602e3c-e93d-4d03-fa46-3a891bee2b9f@85.198.11.225:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AAK1
+vless://61f25a9d-25be-46d7-869e-799726b0ffe0@37.152.188.188:2083?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AAK2
 trojan://dd3NuBkPbv@188.114.96.2:2087?mode=gun&security=tls&alpn=h2&fp=chrome&type=grpc&serviceName=grpc19101&sni=falk.unboundnet.ir#%F0%9F%87%A9%F0%9F%87%AAK3
 vmess://eyJhZGQiOiI3OS4xNzUuMTMxLjU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuZ29vZ2xlLmNvbSIsImlkIjoiMDU2ODM4ODYtM2MyZC1jYTZjLTIyNDktOWQwOTNiZWY5MDc1IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA2MCIsInBzIjoi8J+HqfCfh6pLNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxNi4xNzEuMTMuOTUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTIwOWUzZTktZTY5MC00MGQ3LWExOWYtZTdjNDZlYjVkZWNjIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0MzkyMSIsInBzIjoi8J+HuPCfh6pLNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://f553d0ca-701d-4f95-90e9-2851d055291e@16.170.168.165:8443?security=reality&encryption=none&pbk=AhctIOgisOpLurf_mhQPKw2zLb1x6lvQK05J0VkeDxc&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.makers.com&sid=3c#%F0%9F%87%B8%F0%9F%87%AAK6
-vless://535c22af-c632-434e-9cff-33df14ed8f2a@104.31.16.8:80?path=%2F&security=none&encryption=none&host=tIpS.prE-lOad.sItE&type=ws#%F0%9F%87%AC%F0%9F%87%A7K7
-vless://ee2dc39a-4d85-4cc2-b284-88fa97a70e29@45.82.139.140:2052?security=none&encryption=none&host=Speed.cloudflare.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7K8
+vless://379da744-adc9-42dd-c1b7-95b6e8314c95@5.78.95.53:8443?mode=gun&security=reality&encryption=none&pbk=lZ3QfskldKpKO087SnpJNV6ZTcoJ6tbSzWceJbvqhAA&fp=firefox&type=grpc&serviceName=&sni=ftp.debian.org&sid=d8915f18ee#%F0%9F%87%BA%F0%9F%87%B8K6
+vless://ee2dc39a-4d85-4cc2-b284-88fa97a70e29@45.82.139.140:2052?security=none&encryption=none&host=Speed.cloudflare.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7K7
