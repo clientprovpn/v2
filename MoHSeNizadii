@@ -1,7 +1,10 @@
-vless://2d2e386e-efa0-430d-80c3-e04ff5b2cf60@172.66.47.158:2052/?type=ws&encryption=none&host=wsedrftyRT34Erddf.culture-movies.watch&path=%2F#%F0%9F%87%A9%F0%9F%87%AAK1
-vless://8c5fe9c2-ebfb-43ef-8658-fabb75f83a51@193.151.138.97:2083/?encryption=none&host=zula.ir&type=tcp&headerType=http#%F0%9F%87%A9%F0%9F%87%AAK2
-vless://5b31c168-40aa-4ea1-8fce-088ee36228e0@172.66.44.158:80/?type=ws&encryption=none&host=FgauEf.aMOoZEsHgAH-Pc.cOm&path=%2Fbackup#%F0%9F%87%A9%F0%9F%87%AAK3
-vless://3005e5c4-f89f-4952-a94b-00c1ba1de41e@172.67.172.140:443/?type=ws&encryption=none&host=avval.mzolfaghari.homes&path=%2F&security=tls&sni=avval.mzolfaghari.homes&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AAK4
-vless://04a52efb-bab0-4405-ba36-76b830e9362d@direct.toxingold.com:2096/?type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AAK5
-vless://b7d0b514-f2dd-4d93-fcdf-c88a3e3470a4@dasdfjhladfakhfakhfkadkflahasdsfhal.overload.site:443/?type=ws&encryption=none&path=%2Ffgagagregafdsgra&security=tls&sni=dasdfjhladfakhfakhfkadkflahasdsfhal.overload.site&alpn=http%2F1.1&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7K6
-vmess://eyJhZGQiOiI1Mi4zMy4xNDguMTMwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA2MDZhNmFmLTNjNWYtNDA4Yy05NjY1LTM1YzA1YjE2NzJjZCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTc2NDgiLCJwcyI6IvCfh7rwn4e4SzciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://2d2e386e-efa0-430d-80c3-e04ff5b2cf60@172.66.47.158:2052?path=%2F&security=none&encryption=none&host=wsedrftyRT34Erddf.culture-movies.watch&type=ws#%F0%9F%87%A9%F0%9F%87%AAK1
+vless://86ea5b53-a201-4f8a-8d32-472872d1f870@173.245.58.133:8080?path=%2Fbackup&security=none&encryption=none&host=menu.dr-salam.com&type=ws#%F0%9F%87%A9%F0%9F%87%AAK2
+vless://5b31c168-40aa-4ea1-8fce-088ee36228e0@172.66.44.158:80?path=%2Fbackup&security=none&encryption=none&host=FgauEf.aMOoZEsHgAH-Pc.cOm&type=ws#%F0%9F%87%A9%F0%9F%87%AAK3
+vless://3005e5c4-f89f-4952-a94b-00c1ba1de41e@172.67.172.140:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=avval.mzolfaghari.homes&fp=chrome&type=ws&sni=avval.mzolfaghari.homes#%F0%9F%87%A9%F0%9F%87%AAK4
+vless://04a52efb-bab0-4405-ba36-76b830e9362d@185.142.157.125:2096?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AAK5
+vless://b7d0b514-f2dd-4d93-fcdf-c88a3e3470a4@dasdfjhladfakhfakhfkadkflahasdsfhal.overload.site:443?path=%2Ffgagagregafdsgra&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=ws&sni=dasdfjhladfakhfakhfkadkflahasdsfhal.overload.site#%F0%9F%87%B9%F0%9F%87%B7K6
+vless://60fc19d8-c422-41d8-c9ce-eb8e22033c7f@104.21.36.15:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=vlvm.nerdylearner.click#%F0%9F%87%B9%F0%9F%87%B7K7
+vless://c95ed734-f495-4541-d3cb-1c30a0a97c58@188.114.97.42:8443?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=grpc&serviceName=&sni=vlvm2.nerdylearner.click#%F0%9F%87%B9%F0%9F%87%B7k8
+vless://251780c1-1501-43b3-be2a-d144a20d479a@65.20.113.203:443?mode=gun&security=reality&encryption=none&alpn=http/1.1&pbk=0gIKNJFOByW3cSvxJxCqw_A1pYc66fuJXZe6Ny80bmA&fp=chrome&type=grpc&serviceName=Y7aWYIhAUAt2De4KVnk9AHQv&sni=www.speedtest.net&sid=52eb502a#%F0%9F%87%B8%F0%9F%87%AAK9
+vmess://eyJhZGQiOiI1Mi4zMy4xNDguMTMwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA2MDZhNmFmLTNjNWYtNDA4Yy05NjY1LTM1YzA1YjE2NzJjZCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTc2NDgiLCJwcyI6IvCfh7rwn4e4SzEwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
